@@ -13,7 +13,7 @@
  ![Image](西湖.jpg)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+想了解更多就see see [百度百科西湖](https://baike.baidu.com/item/%E8%A5%BF%E6%B9%96/4668821?fr=aladdin).
 
 ## 兴趣爱好
 
