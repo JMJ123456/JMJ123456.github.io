@@ -1,6 +1,6 @@
-## Welcome to JMJ's Pages
-
-You can use the [editor on GitHub](https://github.com/JMJ123456/JMJ123456.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#Welcome to JMJ's Pages
+##个人简介
+Minjiong Jiang,男，杭州电子科技大学学生。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
