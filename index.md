@@ -10,7 +10,7 @@
 
 ### 秀丽的西湖
 
- ![Image](西湖.jpg)
+ ![Image](西湖.jpg.jpg)
 
 
 想了解更多就see see [百度百科西湖](https://baike.baidu.com/item/%E8%A5%BF%E6%B9%96/4668821?fr=aladdin).
