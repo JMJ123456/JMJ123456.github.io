@@ -6,7 +6,7 @@
 
 ## 所在城市
 
-美丽的[杭州](https://baike.baidu.com/item/%E6%9D%AD%E5%B7%9E/147639?fr=aladdin)！
+美丽的[杭州](https://baike.baidu.com/item/%E6%9D%AD%E5%B7%9E/147639?fr=aladdin)(点击看简介）！
 
 ```markdown
 Syntax highlighted code block
