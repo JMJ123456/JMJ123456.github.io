@@ -6,7 +6,7 @@
 
 ## 所在城市
 
-美丽的杭州！
+美丽的[杭州](https://baike.baidu.com/item/%E6%9D%AD%E5%B7%9E/147639?fr=aladdin)！
 
 ```markdown
 Syntax highlighted code block
