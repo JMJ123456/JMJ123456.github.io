@@ -1,7 +1,7 @@
 # Welcome to JMJ's Pages
 
 ## 个人简介
-#Minjiong Jiang,男，杭州电子科技大学学生。
+蒋旻炅,男，杭州电子科技大学学生。
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
