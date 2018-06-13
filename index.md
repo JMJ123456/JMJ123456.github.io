@@ -8,23 +8,10 @@
 
 美丽的[杭州](https://baike.baidu.com/item/%E6%9D%AD%E5%B7%9E/147639?fr=aladdin)(点击看简介）！
 
-```markdown
-Syntax highlighted code block
+### 秀丽的西湖
 
-# Header 1
-## Header 2
-### Header 3
+ ![Image](西湖.jpg)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
